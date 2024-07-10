@@ -1,0 +1,202 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Duy Anh",
+      "email": "bui09132918822@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "onl": false,
+      "block": true,
+      "age": "018",
+      "phoneNumber": "973553661",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "4",
+      "name": "Phan Huy",
+      "email": "bui09132918@gmail.com",
+      "password": "111",
+      "confirmPassword": "111",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "09477474638",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "5",
+      "name": "Phan Huy",
+      "email": "bui0913291@gmail.com",
+      "password": "1",
+      "confirmPassword": "1",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "0455677544",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "6",
+      "name": "Bui Duy Anh",
+      "email": "duyanh@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "0986546773",
+      "cart": [
+        {
+          "id": "0",
+          "name": "Xe máy Vison 2023",
+          "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+          "quantity": 4,
+          "type": "trên 100cc",
+          "state": "mới",
+          "price": 5000,
+          "description": "npm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginate"
+        },
+        {
+          "id": "6",
+          "name": "Xe máy Vison 2023",
+          "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+          "quantity": 1,
+          "type": "trên 180cc",
+          "state": "mới",
+          "price": 75888,
+          "description": "gdddddddgdygduddidjdiuggd"
+        }
+      ],
+      "buy": []
+    },
+    {
+      "id": "7",
+      "name": "Duy Anh",
+      "email": "bui0913291882@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "onl": false,
+      "block": false,
+      "age": "19",
+      "phoneNumber": "0913291882",
+      "cart": [],
+      "buy": []
+    }
+  ],
+  "products": [
+    {
+      "id": "0",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 100cc",
+      "state": "mới",
+      "price": 5000,
+      "description": "npm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginate"
+    },
+    {
+      "id": "1",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 180cc",
+      "state": "mới",
+      "price": 5000,
+      "description": "npm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginate"
+    },
+    {
+      "id": "2",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 10,
+      "type": "trên 180cc",
+      "state": "cũ",
+      "price": 50000,
+      "description": "npm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginate"
+    },
+    {
+      "id": "3",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 100cc",
+      "state": "mới",
+      "price": 40000,
+      "description": "Vision 2023 vẫn sử dụng động cơ eSP xy-lanh đơn dung tích 110 cc, đi kèm phun xăng điện tử. Động cơ này sản sinh công suất 8,8 mã lực tại 7.500 vòng/phút và mô-men xoắn 9,29 Nm tại 6.000 vòng/phút. Mức tiêu thụ nhiên liệu của Vision vào khoảng 1,85 lít/100 km. "
+    },
+    {
+      "id": "4",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 100cc",
+      "state": "mới",
+      "price": 5000,
+      "description": "npm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginate"
+    },
+    {
+      "id": "5",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 10,
+      "type": "trên 180cc",
+      "state": "cũ",
+      "price": 50000,
+      "description": "npm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginatenpm install react-paginate"
+    },
+    {
+      "id": "6",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 180cc",
+      "state": "mới",
+      "price": 75888,
+      "description": "gdddddddgdygduddidjdiuggd"
+    },
+    {
+      "id": "6",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 180cc",
+      "state": "mới",
+      "price": 75888,
+      "description": "gdddddddgdygduddidjdiuggd"
+    },
+    {
+      "id": "6",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 180cc",
+      "state": "mới",
+      "price": 75888,
+      "description": "gdddddddgdygduddidjdiuggd"
+    },
+    {
+      "id": "6",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 180cc",
+      "state": "mới",
+      "price": 75888,
+      "description": "gdddddddgdygduddidjdiuggd"
+    },
+    {
+      "id": "6",
+      "name": "Xe máy Vison 2023",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 50,
+      "type": "trên 180cc",
+      "state": "mới",
+      "price": 75888,
+      "description": "gdddddddgdygduddidjdiuggd"
+    }
+  ]
+}
